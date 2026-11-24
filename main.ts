@@ -1,4 +1,4 @@
-// One-Line Robot Wedding Vows — r1
+// One-Line Robot Wedding Vows — r1 (revised: header note added, entry line unchanged)
 // Writes a single line of wedding vows for a robot couple to /output/entry.txt.
 import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
